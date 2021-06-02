@@ -1,0 +1,78 @@
+@media only screen and (min-width:768px) and (max-width:992px) {
+    /*************Body**********/
+.container {max-width:992px;
+}
+body {margin: auto;
+}
+/**********************menu**************/
+.nav {background-color:#556270;
+color:white;
+padding:20px;
+margin: auto;
+}
+.nav li {padding: 10px;
+}
+#right {margin-left: auto;
+}
+hr {color: grey;}
+/******************banner*******************/
+.banner {background-image:none;
+min-height: 0px;
+}
+#h1{position:static;
+margin-left: 30px;
+color:black;
+padding-top: 40px;
+padding-bottom: 0px;
+padding-left: 25px;
+font-size: 50px;
+font-weight: Bold;
+}
+#p{position:static;
+margin-left: 30px;
+color:black;
+padding-bottom: 25px;
+padding-top: 25px;
+padding-left: 25px;
+}
+/********************body text/pic*******************/
+.body {background-color: white;
+}
+#text {margin-left: 20px;
+font-size:40px;
+font-weight: Bold;
+padding-left:20px;
+}
+#text2 {margin-left: 25px;
+padding-left:20px;
+}
+.pic {padding-bottom: 25px;
+padding-top: 20px;
+margin-left: 25px;
+padding-left: 25px;
+}
+.pic2 {padding-left: 15px;
+padding-bottom: 25px;
+padding-top: 20px;
+margin-left: 0px;
+}
+.pic3 {padding-left: 28px;
+padding-top: 10px;
+padding-bottom: 10px;
+margin-left: 25px;
+}
+/****************************footer*********************/
+.foot {background-color: white;
+padding: 45px;
+margin: 45px;
+margin-left: 0px;
+}
+.foot1{padding-left:15px;
+margin-left: 0px;
+}
+
+h2 {font-size:40px;
+font-weight: Bold;}
+a:link {color:lightblue
+}
+}
